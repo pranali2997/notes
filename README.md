@@ -12,6 +12,7 @@ https://faun.pub/the-difference-between-liveness-readiness-and-startup-probes-78
 
 #Terraform
 https://geekflare.com/terraform-interview-questions-and-answers/
+https://medium.com/@dksoni4530/terraform-interview-questions-4988bedcec80
 
 #Jenkins
 https://www.interviewbit.com/jenkins-interview-questions/
